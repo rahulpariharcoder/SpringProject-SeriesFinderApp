@@ -6,3 +6,4 @@ Contains 4 Classes
 2. ApplicationService
 3. Data Class
 4. SeriesFinderApp.java
+![Output Image 1](https://user-images.githubusercontent.com/55474401/192945936-db85ddb3-bc97-4432-9657-8fbbedb455aa.jpg)
